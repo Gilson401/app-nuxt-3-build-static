@@ -1,0 +1,1 @@
+import{_ as t}from"./D0p1SkkA.js";import{_ as s,o as c,c as a,a as n,S as r,b as _}from"./WZPZbsBb.js";const l={},d={class:"flex flex-col jobs-container"},i={class:"flex-grow bg-blue-200 centralizadiv mt-3"};function f(e,m){const o=t;return c(),a("div",d,[n("div",i,[r(e.$slots,"default")]),_(o)])}const x=s(l,[["render",f]]);export{x as default};

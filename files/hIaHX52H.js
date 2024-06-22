@@ -1,0 +1,1 @@
+import{o,c as s,a as e}from"./WZPZbsBb.js";const t=e("h1",null,'Jobs Page home "/jobs"',-1),a=e("div",{class:"h-9 w-9"},null,-1),c=[t,a],d={__name:"index",setup(n){return(_,l)=>(o(),s("div",null,c))}};export{d as default};

@@ -1,0 +1,1 @@
+const s={auth:"https://reqres.in/api/register",userDataById:t=>`https://reqres.in/api/users/${t}`,allProducts:"https://fakestoreapi.com/products",productbyId:t=>`https://fakestoreapi.com/products/${t}`,categories:"https://fakestoreapi.com/products/categories",productsBycategory:t=>"https://fakestoreapi.com/products/categories/"+t};export{s as a};
